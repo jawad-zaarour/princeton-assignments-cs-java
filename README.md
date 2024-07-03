@@ -2,7 +2,9 @@
 
 <p align="center">
   <img src="zstatic/princeton.png" alt="Princeton University" height="70" style="margin-right: 40px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="zstatic/coursera.png" alt="Coursera" height="70" style="margin-right: 40px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="zstatic/java.png" alt="Java" height="70">
 </p>
 
